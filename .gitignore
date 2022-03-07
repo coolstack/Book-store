@@ -1,2 +1,6 @@
 # Database storage
 db.sqlite3
+
+# Cache Directory
+BookList/__pycache__
+BookList/migrations/__pycache__
